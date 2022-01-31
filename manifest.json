@@ -1,0 +1,10 @@
+{
+  "name": "E2E highlight",
+  "description": "Highlight items that have IDs and those that don't.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
