@@ -4,7 +4,7 @@ Highlight elements with green or red border based on the ID attribute value.
 
 
 Elements that are going to be highlighted in green:
-- button, a, input with a valid ID attribute value.
+- button, a, input with an ID attribute value that is not empty or GUID.
 
 Elements that are going to be highlighted in red:
 - button, a, input with empty ID attribute,
